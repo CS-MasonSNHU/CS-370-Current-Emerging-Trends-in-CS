@@ -1,1 +1,11 @@
 # CS-370-Current-Emerging-Trends-in-CS
+
+<h1>Briefly explain the work that you did on this project</h1>
+<p>For the code I worked on implementing the "thought process" of the agent. Using Deep-Q learning and previous knowledge of python fundamentals I was able to code this portion of the agent and it successfully found the treasure. I only coded in the Project IPYNB file and none of the other pre-implented code which were the .py files. </p>
+
+<h1>Connecting to a Larger field of Computer Science</h1>
+<p>Computer Science is a broad career path that involves many diffent aspects of computer science. This is because you can be a full stack developer but not have to deal with AI, or a data science professional and never have to deploy any customer facing features. Either way computer science matters because of the rapid increase in advaced technology. Without people to work on these programs, agents, or data, we will likely regress in the advancement process. The amount of research that goes into learning these things and implementing them is crucial for societies advancement.</p>
+
+<p>Approaching a problem as a computer scientist is similar to that of a mechanic. First you will try to split whatever is the issue into small manageable parts before actually executing any solution. This way makes it more manageable as a worker because you do not have to think of a solution right away with everything all at once. This allows you to solve or cancel out things as you go which will lead to the full solution later. Think of it like finding broken code but the file is too large. If we think small and work our way up we may find the solution faster. Starting by looking at the console logs to see what the debugging tool has told us is wrong. Then fixing that and if that does not work well at least we are slowly making our way to the end goal of an actual deployable solution.</p>
+
+<p>Ethical responsabilities include proper security and data privacy. When creating a program making sure that the users data and livelihood is protected is crucial. Also if working with Artificial Intelligence, we need to make sure we are ethically training it. For instance, we need to utilize data that people have agreed to be used for training the AI. Doing so can make sure that data privacy is a high priority even when working with a large language model.</p>
